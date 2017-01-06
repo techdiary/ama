@@ -19,5 +19,5 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 ### Links
 
 - [Read more AMAs](https://github.com/sindresorhus/amas)
-- [Create your own AMA](https://github.com/aaronfrost/ama/fork)
+- [Create your own AMA](https://github.com/brocco/ama/fork)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
