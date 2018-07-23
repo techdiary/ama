@@ -6,8 +6,6 @@ I get a lot of questions by email. This way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
--
-
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
@@ -19,5 +17,5 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 ### Links
 
 - [Read more AMAs](https://github.com/sindresorhus/amas)
-- [Create your own AMA](https://github.com/brocco/ama/fork)
-- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+- [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
+- [What's an AMA?](https://en.wikipedia.org/wiki//r/IAmA)
